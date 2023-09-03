@@ -1,4 +1,3 @@
-/*=============== SHOW HIDDEN - PASSWORD ===============*/
 const showHiddenPass = (loginPass, loginEye) =>{
    const input = document.getElementById(loginPass),
          iconEye = document.getElementById(loginEye)
